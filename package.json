@@ -9,7 +9,7 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
-  "homepage": "https://244788180.github.io/-webpack-",
+  "homepage": "https://244788180.github.io/-webpack-/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
