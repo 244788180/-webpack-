@@ -9,10 +9,12 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
+  "homepage": "https://244788180.github.io/-webpack-",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+    
   }
 }
